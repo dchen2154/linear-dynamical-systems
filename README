@@ -1,0 +1,9 @@
+Project Name: Linear Dynamical Systems
+
+Project Description: Animates any discrete linear dynamical system (systems of
+	the form x_{n + 1} = A x_{n} where A is a square matrix and all x_{n} are
+	of compatible size). More instructions are given in help_msg.txt.
+
+Running the project: The project must be built with Processsing (Java) which can
+	be downloaded here: https://processing.org/download?processing. In
+	Processing, open linear_dynamical_systems.pde and press on the run button.
